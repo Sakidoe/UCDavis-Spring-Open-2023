@@ -1,0 +1,21 @@
+=== MATCH SCHEDULE FOR CWS ===
+CWS2   | 04:30 PM - 05:00 PM | Court 17
+CWS3   | 04:30 PM - 05:00 PM | Court 11
+CWS4   | 04:30 PM - 05:00 PM | Court 12
+CWS5   | 04:30 PM - 05:00 PM | Court 13
+CWS6   | 04:30 PM - 05:00 PM | Court 14
+CWS7   | 04:30 PM - 05:00 PM | Court 1
+CWS9   | 06:30 PM - 07:00 PM | Court 10
+CWS10  | 06:40 PM - 07:10 PM | Court 15
+CWS11  | 06:40 PM - 07:10 PM | Court 16
+CWS12  | 06:40 PM - 07:10 PM | Court 17
+CWS13  | 08:40 PM - 09:10 PM | Court 2
+CWS14  | 08:40 PM - 09:10 PM | Court 3
+CWS15  | 09:40 PM - 10:10 PM | Court 10
+CWS17  | 08:40 PM - 08:50 PM | Court 4
+CWS18  | 08:40 PM - 08:50 PM | Court 5
+CWS20  | 08:40 PM - 08:50 PM | Court 6
+CWS23  | 08:40 PM - 08:50 PM | Court 7
+CWS24  | 09:30 PM - 09:40 PM | Court 5
+CWS25  | 09:30 PM - 09:40 PM | Court 6
+CWS26  | 09:50 PM - 10:20 PM | Court 14

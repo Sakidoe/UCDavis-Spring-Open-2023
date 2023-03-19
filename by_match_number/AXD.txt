@@ -1,0 +1,15 @@
+=== MATCH SCHEDULE FOR AXD ===
+AXD4   | 05:00 PM - 05:30 PM | Court 8
+AXD5   | 05:00 PM - 05:30 PM | Court 9
+AXD9   | 07:20 PM - 07:50 PM | Court 2
+AXD10  | 07:20 PM - 07:50 PM | Court 3
+AXD11  | 07:20 PM - 07:50 PM | Court 4
+AXD12  | 07:20 PM - 07:50 PM | Court 5
+AXD13  | 09:00 PM - 09:30 PM | Court 8
+AXD14  | 09:00 PM - 09:30 PM | Court 9
+AXD15  | 09:50 PM - 10:20 PM | Court 5
+AXD21  | 09:10 PM - 09:20 PM | Court 11
+AXD22  | 09:10 PM - 09:20 PM | Court 14
+AXD24  | 09:40 PM - 09:50 PM | Court 11
+AXD25  | 09:40 PM - 09:50 PM | Court 12
+AXD26  | 10:10 PM - 10:40 PM | Court 9

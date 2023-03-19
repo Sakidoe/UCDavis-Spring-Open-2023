@@ -1,0 +1,10 @@
+=== MATCH SCHEDULE FOR AWS ===
+AWS2   | 06:00 PM - 06:30 PM | Court 3
+AWS3   | 06:40 PM - 07:10 PM | Court 1
+AWS4   | 06:40 PM - 07:10 PM | Court 2
+AWS5   | 08:10 PM - 08:40 PM | Court 1
+AWS6   | 08:40 PM - 09:10 PM | Court 10
+AWS7   | 09:50 PM - 10:20 PM | Court 1
+AWS9   | 09:30 PM - 09:40 PM | Court 7
+AWS10  | 09:30 PM - 09:40 PM | Court 8
+AWS12  | 09:50 PM - 10:20 PM | Court 2

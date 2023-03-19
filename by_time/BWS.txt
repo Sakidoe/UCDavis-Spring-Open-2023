@@ -1,0 +1,9 @@
+=== MATCH SCHEDULE FOR BWS ===
+06:00 PM - 06:30 PM | BWS2   | Court 1
+06:00 PM - 06:30 PM | BWS3   | Court 2
+08:00 PM - 08:30 PM | BWS5   | Court 12
+08:00 PM - 08:30 PM | BWS6   | Court 13
+09:30 PM - 09:40 PM | BWS10  | Court 11
+09:30 PM - 09:40 PM | BWS11  | Court 12
+09:40 PM - 10:10 PM | BWS7   | Court 8
+09:50 PM - 10:20 PM | BWS12  | Court 12
