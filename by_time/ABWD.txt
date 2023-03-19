@@ -1,0 +1,10 @@
+=== MATCH SCHEDULE FOR ABWD ===
+02:30 PM - 03:00 PM | ABWD2  | Court 1
+03:20 PM - 03:50 PM | ABWD3  | Court 6
+03:20 PM - 03:50 PM | ABWD4  | Court 7
+04:00 PM - 04:30 PM | ABWD5  | Court 1
+04:30 PM - 05:00 PM | ABWD6  | Court 1
+04:40 PM - 04:50 PM | ABWD9  | Court 12
+04:40 PM - 04:50 PM | ABWD10 | Court 13
+05:00 PM - 05:30 PM | ABWD12 | Court 5
+05:10 PM - 05:40 PM | ABWD7  | Court 6

@@ -1,0 +1,22 @@
+=== MATCH SCHEDULE FOR AMS ===
+05:00 PM - 05:30 PM | AMS2   | Court 10
+05:30 PM - 06:00 PM | AMS3   | Court 1
+05:30 PM - 06:00 PM | AMS4   | Court 2
+05:30 PM - 06:00 PM | AMS5   | Court 3
+05:30 PM - 06:00 PM | AMS6   | Court 4
+05:30 PM - 06:00 PM | AMS7   | Court 5
+05:30 PM - 06:00 PM | AMS8   | Court 6
+07:20 PM - 07:50 PM | AMS9   | Court 6
+07:20 PM - 07:50 PM | AMS10  | Court 7
+07:20 PM - 07:50 PM | AMS11  | Court 8
+07:20 PM - 07:50 PM | AMS12  | Court 9
+09:10 PM - 09:40 PM | AMS13  | Court 2
+09:10 PM - 09:40 PM | AMS14  | Court 3
+09:10 PM - 09:20 PM | AMS17  | Court 5
+09:10 PM - 09:20 PM | AMS18  | Court 6
+09:10 PM - 09:20 PM | AMS19  | Court 7
+09:10 PM - 09:20 PM | AMS20  | Court 10
+09:40 PM - 09:50 PM | AMS24  | Court 13
+09:40 PM - 09:50 PM | AMS25  | Court 14
+09:50 PM - 10:20 PM | AMS15  | Court 6
+10:10 PM - 10:40 PM | AMS26  | Court 10

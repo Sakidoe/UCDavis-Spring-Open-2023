@@ -1,0 +1,25 @@
+=== MATCH SCHEDULE FOR AMD ===
+01:00 PM - 01:30 PM | AMD9   | Court 1
+02:00 PM - 02:30 PM | AMD17  | Court 1
+02:00 PM - 02:30 PM | AMD18  | Court 2
+02:00 PM - 02:30 PM | AMD19  | Court 3
+02:00 PM - 02:30 PM | AMD20  | Court 4
+02:00 PM - 02:30 PM | AMD21  | Court 5
+02:00 PM - 02:30 PM | AMD22  | Court 6
+02:00 PM - 02:30 PM | AMD23  | Court 7
+02:00 PM - 02:30 PM | AMD24  | Court 8
+03:20 PM - 03:50 PM | AMD25  | Court 1
+03:20 PM - 03:50 PM | AMD26  | Court 2
+03:20 PM - 03:50 PM | AMD27  | Court 3
+03:20 PM - 03:50 PM | AMD28  | Court 4
+03:50 PM - 04:00 PM | AMD44  | Court 6
+04:10 PM - 04:40 PM | AMD29  | Court 9
+04:20 PM - 04:50 PM | AMD30  | Court 3
+04:20 PM - 04:30 PM | AMD48  | Court 6
+04:20 PM - 04:30 PM | AMD49  | Court 7
+04:20 PM - 04:30 PM | AMD50  | Court 8
+04:30 PM - 04:40 PM | AMD51  | Court 11
+04:40 PM - 04:50 PM | AMD52  | Court 11
+04:50 PM - 05:00 PM | AMD53  | Court 11
+05:00 PM - 05:30 PM | AMD31  | Court 1
+05:10 PM - 05:40 PM | AMD54  | Court 2
